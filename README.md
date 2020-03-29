@@ -4,7 +4,7 @@
 
 ## Презентация
 
-* [RESTful API](https://yadi.sk/i/My7IcpFPidn40Q) ([Исходник презентации](https://docs.google.com/presentation/d/1JTQxg3023F0Y6c76lB9af0eF2EgE_MQDG8s0x4NtmiA/edit#slide=id.g6015382865_0_45))
+* [RESTful API](https://yadi.sk/i/My7IcpFPidn40Q) ([Исходник презентации](https://docs.google.com/presentation/d/1JTQxg3023F0Y6c76lB9af0eF2EgE_MQDG8s0x4NtmiA/edit?usp=sharing))
 * [Архитектура больших проектов](https://yadi.sk/i/lhIO1UgIj4JkQw)
 
 ## Документация
