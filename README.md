@@ -12,11 +12,8 @@
 ### PHP
 
 * [Шаблоны PHP проектов](https://github.com/php7tpl)
-```{r somePlot, echo=FALSE}
-* [Основные библиотеки](https://github.com/php7rails)
-```
-* [Разные библиотеки](https://github.com/php7lab)
-* [Инструменты для разработки](https://github.com/php7tool)
+* [Базовые пакеты](https://github.com/php7lab)
+* [Различные пакеты](https://github.com/php7bundle)
 
 ### Yii2
 
