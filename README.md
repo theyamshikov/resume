@@ -12,7 +12,7 @@
 ### PHP
 
 * [Шаблоны PHP проектов](https://github.com/php7tpl)
-<span style="display: hidden">* [Основные библиотеки](https://github.com/php7rails)</soan>
+<span style="display: hidden">* [Основные библиотеки](https://github.com/php7rails)</span>
 * [Разные библиотеки](https://github.com/php7lab)
 * [Инструменты для разработки](https://github.com/php7tool)
 
